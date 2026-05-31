@@ -1,3 +1,6 @@
+## Live Demo
+[Open Dashboard](https://patient-dropoff-analysis.streamlit.app/)
+
 ### Patient Flow & No-Show Analytics Dashboard
 
 **Key Insight:**  Nearly 1 in 5 patients fail to attend scheduled appointments, highlighting a critical inefficiency in hospital operations.
