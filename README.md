@@ -108,7 +108,7 @@ These patterns suggest opportunities for appointment redistribution and improved
 
 ### 5. Interactive Dashboard
 
-![Dashboard Preview](results/charts/dashboard_preview.png)
+[Open Dashboard](https://patient-dropoff-analysis.streamlit.app/)
 
 #### Dashboard Capabilities
 
