@@ -1,3 +1,13 @@
+# Patient No-Show Analytics Dashboard
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
+![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare-purple)
+
+Analyze hospital appointment no-shows using Python, EDA, and Streamlit dashboards.
+
+
 ## Live Demo
 [Open Dashboard](https://patient-dropoff-analysis.streamlit.app/)
 
